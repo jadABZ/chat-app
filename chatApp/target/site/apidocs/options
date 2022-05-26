@@ -1,0 +1,26 @@
+-classpath
+'C:/Users/BOA/.m2/repository/org/mongodb/mongodb-driver-sync/4.6.0/mongodb-driver-sync-4.6.0.jar;C:/Users/BOA/.m2/repository/org/mongodb/bson/4.6.0/bson-4.6.0.jar;C:/Users/BOA/.m2/repository/org/mongodb/mongodb-driver-core/4.6.0/mongodb-driver-core-4.6.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/BOA/Desktop/java/chat app/chatApp/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/BOA/Desktop/java/chat app/chatApp/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'chatApp 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/BOA/Desktop/java/chat app/chatApp/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'chatApp 1.0-SNAPSHOT API'
